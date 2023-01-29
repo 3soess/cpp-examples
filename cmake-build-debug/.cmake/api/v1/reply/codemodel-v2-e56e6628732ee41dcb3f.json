@@ -1,0 +1,654 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "projects",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2BoyutluDiziler.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2BoyutluDiziler.cpp-Debug-61ef79aaf20f37822ab2.json",
+					"name" : "2BoyutluDiziler.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2DiziyiKarsilastirma.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2DiziyiKarsilastirma.cpp-Debug-69e091b1262841d528d1.json",
+					"name" : "2DiziyiKarsilastirma.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5sayininOrtalamasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5sayininOrtalamasi.cpp-Debug-87f49da1bb7daf009fb4.json",
+					"name" : "5sayininOrtalamasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AlanCevreHesabi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AlanCevreHesabi.cpp-Debug-dfec74da04274cfff98f.json",
+					"name" : "AlanCevreHesabi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AsalMersenneOrnek.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AsalMersenneOrnek.cpp-Debug-301bbb5c988f138a01a1.json",
+					"name" : "AsalMersenneOrnek.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "AsalSayiHesaplatma.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AsalSayiHesaplatma.cpp-Debug-7d6eaaa492d91fa4c0ed.json",
+					"name" : "AsalSayiHesaplatma.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CarpIsaretiKullanmadanCarpma.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CarpIsaretiKullanmadanCarpma.cpp-Debug-b9a28156267e6b1498f5.json",
+					"name" : "CarpIsaretiKullanmadanCarpma.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Deneme1.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deneme1.cpp-Debug-492dca744b7f51e63527.json",
+					"name" : "Deneme1.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Deneme2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deneme2.cpp-Debug-9ae3093988735de4f1eb.json",
+					"name" : "Deneme2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Deneme3.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deneme3.cpp-Debug-cfb860ddc0ad04a96a43.json",
+					"name" : "Deneme3.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Deneme4.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Deneme4.cpp-Debug-7526c5d03746ecf76fa6.json",
+					"name" : "Deneme4.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DikdortgeninAlaniHesaplama.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DikdortgeninAlaniHesaplama.cpp-Debug-45e27843c9f9aed4a1e3.json",
+					"name" : "DikdortgeninAlaniHesaplama.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DinamikHafizaveMalloc.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DinamikHafizaveMalloc.cpp-Debug-89ee4015da626495b2a7.json",
+					"name" : "DinamikHafizaveMalloc.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizgiOyunu.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizgiOyunu.cpp-Debug-6ea92d98b772d0dad091.json",
+					"name" : "DizgiOyunu.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizidekiCiftSayilarinEnBuyuguileEnKucuguOrtalamasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizidekiCiftSayilarinEnBuyuguileEnKucuguOrtalamasi.cpp-Debug-c20f25f2bcf27f6345e8.json",
+					"name" : "DizidekiCiftSayilarinEnBuyuguileEnKucuguOrtalamasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizidekiSayilarinAritmetikOrtalamasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizidekiSayilarinAritmetikOrtalamasi.cpp-Debug-37605ed08591e99d23b0.json",
+					"name" : "DizidekiSayilarinAritmetikOrtalamasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizidekiSayilarinGeometrikOrtalamasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizidekiSayilarinGeometrikOrtalamasi.cpp-Debug-aa88fb3000c1d45aef2b.json",
+					"name" : "DizidekiSayilarinGeometrikOrtalamasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizidekiTekSayilarinOrtalamasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizidekiTekSayilarinOrtalamasi.cpp-Debug-f262a1e7d7fa536bd871.json",
+					"name" : "DizidekiTekSayilarinOrtalamasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizilerOrnekSoruCozumu.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizilerOrnekSoruCozumu.cpp-Debug-b32aff2cd6606b82ca8e.json",
+					"name" : "DizilerOrnekSoruCozumu.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizilerinGostericilerleKullanilmasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizilerinGostericilerleKullanilmasi.cpp-Debug-526334528ccfa930f550.json",
+					"name" : "DizilerinGostericilerleKullanilmasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DizilerveIndisler.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DizilerveIndisler.cpp-Debug-0f3de4faf99181255cad.json",
+					"name" : "DizilerveIndisler.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DosyaAcmaIslemi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DosyaAcmaIslemi.cpp-Debug-7bc49a0a63326f6c8f5d.json",
+					"name" : "DosyaAcmaIslemi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EnKucuk3SayiyiBulma.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EnKucuk3SayiyiBulma.cpp-Debug-f5102bd8d88316f8ca99.json",
+					"name" : "EnKucuk3SayiyiBulma.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Enbuyuk3SayininToplaminiDondurenKod.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Enbuyuk3SayininToplaminiDondurenKod.cpp-Debug-82bf8f040fb2d65b2d5c.json",
+					"name" : "Enbuyuk3SayininToplaminiDondurenKod.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FloorCeilRound.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FloorCeilRound.cpp-Debug-583fa8104a119fcbf614.json",
+					"name" : "FloorCeilRound.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FonksiyonOgrenme.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FonksiyonOgrenme.cpp-Debug-5cd3d3fad6cb54765cc2.json",
+					"name" : "FonksiyonOgrenme.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FonksiyonOrnekCozum.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FonksiyonOrnekCozum.cpp-Debug-d62b87b075cdf8ea7c01.json",
+					"name" : "FonksiyonOrnekCozum.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FonksiyonileBirDizidekiEnbuyukileEnkucukSayininFarki.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FonksiyonileBirDizidekiEnbuyukileEnkucukSayininFarki.cpp-Debug-506732b1e49fc0f7bb56.json",
+					"name" : "FonksiyonileBirDizidekiEnbuyukileEnkucukSayininFarki.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FonksiyonlarinDizileriParametreAlmasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FonksiyonlarinDizileriParametreAlmasi.cpp-Debug-6d962808da7d45cee14e.json",
+					"name" : "FonksiyonlarinDizileriParametreAlmasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FonksiyonlarinGostericilerleKullanimiveReferansDegerileCagirma.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FonksiyonlarinGostericilerleKullanimiveReferansDegerileCagirma.cpp-Debug-f197137af7e0d0eb64c4.json",
+					"name" : "FonksiyonlarinGostericilerleKullanimiveReferansDegerileCagirma.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ForIfElseKullanimi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ForIfElseKullanimi.cpp-Debug-2595d4a555fcf26703c6.json",
+					"name" : "ForIfElseKullanimi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ForKullanimi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ForKullanimi.cpp-Debug-21d9373279e41750aa55.json",
+					"name" : "ForKullanimi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GirilenSayilarinOrtalamasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GirilenSayilarinOrtalamasi.cpp-Debug-14c574f060fdce7c3381.json",
+					"name" : "GirilenSayilarinOrtalamasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GirilenSayilarlaDiziToplama.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GirilenSayilarlaDiziToplama.cpp-Debug-c08b40a494ddd907f109.json",
+					"name" : "GirilenSayilarlaDiziToplama.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IfElseKullanimi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IfElseKullanimi.cpp-Debug-39a2963ad322516322bf.json",
+					"name" : "IfElseKullanimi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IfElseKullanimi2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IfElseKullanimi2.cpp-Debug-008d2635850bbb745031.json",
+					"name" : "IfElseKullanimi2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IfElseKullanimi3.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IfElseKullanimi3.cpp-Debug-e29c823d4fa0b3b0d65c.json",
+					"name" : "IfElseKullanimi3.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KupunAlaniHesaplama.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KupunAlaniHesaplama.cpp-Debug-112bb4377c8a97d0a556.json",
+					"name" : "KupunAlaniHesaplama.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MatProblemi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MatProblemi.cpp-Debug-a15b3f76af503b150240.json",
+					"name" : "MatProblemi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MatrisinTranspozunuAlanKod.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MatrisinTranspozunuAlanKod.cpp-Debug-3f5be524d99bc06eaa9f.json",
+					"name" : "MatrisinTranspozunuAlanKod.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MatrislerinToplami.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MatrislerinToplami.cpp-Debug-ed5e142bbab50ea0e6cb.json",
+					"name" : "MatrislerinToplami.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MatrislerinToplami1.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MatrislerinToplami1.cpp-Debug-621a296458221e5b1a24.json",
+					"name" : "MatrislerinToplami1.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ObjectOrientedGiris.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ObjectOrientedGiris.cpp-Debug-006fee22db58d360f42e.json",
+					"name" : "ObjectOrientedGiris.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OzyineliFonksiyonlar.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OzyineliFonksiyonlar.cpp-Debug-8b22408eb56625fd5147.json",
+					"name" : "OzyineliFonksiyonlar.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Palindrome.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Palindrome.cpp-Debug-e16d42804a9f0b945d15.json",
+					"name" : "Palindrome.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PalindromeBenimki.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PalindromeBenimki.cpp-Debug-4548fde7adf9eb8951a5.json",
+					"name" : "PalindromeBenimki.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PointerArithmetic.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PointerArithmetic.cpp-Debug-90bec70b605bcee2becb.json",
+					"name" : "PointerArithmetic.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PointerGiris.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PointerGiris.cpp-Debug-168d0e906f0fca197158.json",
+					"name" : "PointerGiris.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RastgeleSayiUretimi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RastgeleSayiUretimi.cpp-Debug-e831518c6806a997befb.json",
+					"name" : "RastgeleSayiUretimi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SaatDonusumuString.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SaatDonusumuString.cpp-Debug-f0890e2ae9509ffbbe29.json",
+					"name" : "SaatDonusumuString.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sorulacaklar.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sorulacaklar.cpp-Debug-664761784dfc7f41202a.json",
+					"name" : "Sorulacaklar.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StringKavrami.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StringKavrami.cpp-Debug-da83ca30b11d3e61d863.json",
+					"name" : "StringKavrami.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StringTipi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StringTipi.cpp-Debug-cbc58606eb9d490ff0b3.json",
+					"name" : "StringTipi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SwitchCaseYapisi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SwitchCaseYapisi.cpp-Debug-7b927730e7d398406b18.json",
+					"name" : "SwitchCaseYapisi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ToplamaOyunu.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ToplamaOyunu.cpp-Debug-2b4f447f4caad153d4d8.json",
+					"name" : "ToplamaOyunu.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UsHesaplatma.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UsHesaplatma.cpp-Debug-6a272d8689d1fae18ee6.json",
+					"name" : "UsHesaplatma.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizSemasi.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizSemasi.cpp-Debug-269ea9bc57d2a45250a9.json",
+					"name" : "YildizSemasi.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizSemasi1.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizSemasi1.cpp-Debug-5a6f076c8cc7faa37e2a.json",
+					"name" : "YildizSemasi1.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizSemasi2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizSemasi2.cpp-Debug-af5929702a1a4d5d6108.json",
+					"name" : "YildizSemasi2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizSemasi3.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizSemasi3.cpp-Debug-5965278041445e006600.json",
+					"name" : "YildizSemasi3.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizSemasi4.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizSemasi4.cpp-Debug-7ac198f0ce801d96d832.json",
+					"name" : "YildizSemasi4.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizSemasi5.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizSemasi5.cpp-Debug-e3f97b3569ce3958ceb6.json",
+					"name" : "YildizSemasi5.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "YildizUcgen.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-YildizUcgen.cpp-Debug-8ce367ac18e90aba6704.json",
+					"name" : "YildizUcgen.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZarOyunu.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZarOyunu.cpp-Debug-e5c6b47af72cc5e90172.json",
+					"name" : "ZarOyunu.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main.cpp-Debug-ef9c899f6a1c202bf2d3.json",
+					"name" : "main.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "suleyman.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-suleyman.cpp-Debug-8db7f44cc4f94389524f.json",
+					"name" : "suleyman.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ucgenIcAci.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ucgenIcAci.cpp-Debug-0c428847030bb32c5887.json",
+					"name" : "ucgenIcAci.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/eslem/CLionProjects/projects/cmake-build-debug",
+		"source" : "C:/Users/eslem/CLionProjects/projects"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
